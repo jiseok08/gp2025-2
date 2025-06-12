@@ -67,6 +67,8 @@ int main()
 #pragma endregion
 
 #pragma region 동적 할당
+	int count = 0;
+
 	int * pointer = new int;
 
 	*pointer = 10;
@@ -75,17 +77,23 @@ int main()
 
 	delete pointer;
 
-	pointer = new int[4];
+	std::cout << "반복할 값을 입력하세요." << std::endl;
 
-	for (int i = 0; i < 4; i++)
+	std::cin >> count;
+
+	pointer = new int[count];
+
+	for (int i = 0; i < count; i++)
 	{
 		pointer[i] = (i + 1) * 10;
 	}
 
-	for (int i = 0; i < 4; i++)
+	for (int i = 0; i < count; i++)
 	{
 		std::cout << pointer[i] << std::endl;
 	}
+
+	std::cout << "배열의 크기 : " << count * sizeof(*pointer) << std::endl;
 
 	delete [ ] pointer;
 	
