@@ -1,9 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D559C3D6-200D-420F-BA92-3D4CA911EC41}|..\\Class2th (Class)\\Class2th (Class).vcxproj|C:\\Users\\Main\\Desktop\\gp2025-2\\Class2th (Class)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,12 +22,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class2th (Class)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class2th (Class)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class2th (Class)\\Source.cpp",
+              "RelativeToolTip": "..\\Class2th (Class)\\Source.cpp",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T12:34:23.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Program.cpp",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Program.cpp",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAF8AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-12T11:06:14.482Z",
               "EditorCaption": ""
