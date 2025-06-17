@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2319F145-0DFF-4253-883B-E0F5134193A0}|..\\Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).vcxproj|C:\\Users\\Main\\Desktop\\gp2025-2\\Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D559C3D6-200D-420F-BA92-3D4CA911EC41}|..\\Class2th (Class)\\Class2th (Class).vcxproj|C:\\Users\\Main\\Desktop\\gp2025-2\\Class2th (Class)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -17,17 +20,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Class3th (Constructor \u0026 Destructor).cpp",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).cpp",
+              "RelativeDocumentMoniker": "..\\Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).cpp",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).cpp",
+              "RelativeToolTip": "..\\Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwKgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-17T12:32:54.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class2th (Class)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class2th (Class)\\Source.cpp",
               "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class2th (Class)\\Source.cpp",
               "RelativeToolTip": "..\\Class2th (Class)\\Source.cpp",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-13T12:34:23.714Z",
               "EditorCaption": ""
@@ -38,9 +54,9 @@
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\Program.cpp*",
-              "RelativeToolTip": "Program.cpp*",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\Program.cpp",
+              "RelativeToolTip": "Program.cpp",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-12T11:06:14.482Z",
               "EditorCaption": ""
