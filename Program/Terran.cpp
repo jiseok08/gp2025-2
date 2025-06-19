@@ -12,6 +12,10 @@ void Terran::Attack()
 	cout << "Terran Attack" << endl;
 }
 
+void Terran::Stat()
+{
+}
+
 Terran::~Terran()
 {
 }

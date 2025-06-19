@@ -2,6 +2,13 @@
 #include "Terran.h"
 class Ghost : public Terran
 {
+public:
+	Ghost();
 
+	void Attack();
+
+	void Stat();
+
+	~Ghost();
 };
 
