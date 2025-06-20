@@ -5,10 +5,8 @@ class Marine : public Terran
 public:
 	Marine();
 
-	void Attack();
+	virtual void Stat() override;
 
-	void Stat();
-
-	~Marine();
+	virtual ~Marine();
 };
 

@@ -5,19 +5,17 @@ using namespace std;
 
 Ghost::Ghost()
 {
-	health = 75;
-}
-
-void Ghost::Attack()
-{
-	cout << "Ghost Attack" << endl;
+	health = 45;
+	defense = 0;
 }
 
 void Ghost::Stat()
 {
-	cout << "Ghost Health : " << health << endl;
+	cout << "Health " << health << endl;
+	cout << "Defense : " << defense << "\n" << endl; 
 }
 
 Ghost::~Ghost()
 {
+	cout << "Relese Ghost" << endl;
 }

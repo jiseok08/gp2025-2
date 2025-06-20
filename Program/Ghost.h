@@ -5,10 +5,8 @@ class Ghost : public Terran
 public:
 	Ghost();
 
-	void Attack();
+	virtual void Stat() override;
 
-	void Stat();
-
-	~Ghost();
+	virtual ~Ghost() ;
 };
 

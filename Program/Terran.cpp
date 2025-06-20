@@ -1,21 +1,17 @@
 #include "Terran.h"
-#include <iostream>
 
-using namespace std;
 
 Terran::Terran()
 {
-}
-
-void Terran::Attack()
-{
-	cout << "Terran Attack" << endl;
+	cout << "Created Terran" << endl;
 }
 
 void Terran::Stat()
 {
+	cout << "Terran Stat" << endl;
 }
 
 Terran::~Terran()
 {
+	cout << "Release Terran" << endl;
 }

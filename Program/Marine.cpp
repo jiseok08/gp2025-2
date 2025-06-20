@@ -5,19 +5,19 @@ using namespace std;
 
 Marine::Marine()
 {
-	health = 100;
-}
+	health = 40;
+	defense = 0;
 
-void Marine::Attack()
-{
-	cout << "Marine Attack" << endl;
+	cout << "Created Marine" << endl;
 }
 
 void Marine::Stat()
 {
-	cout << "Marine Health : " << health << endl;
+	cout << "Health " << health << endl;
+	cout << "Defense : " << defense << "\n" << endl;
 }
 
 Marine::~Marine()
 {
+	cout << "Release Marine" << endl;
 }

@@ -6,18 +6,16 @@ using namespace std;
 Firebat::Firebat()
 {
 	health = 50;
-}
-
-void Firebat::Attack()
-{
-	cout << "Firebat Attack" << endl;
+	defense = 1;
 }
 
 void Firebat::Stat()
 {
-	cout << "FIrebat Health : " << health << endl;
+	cout << "Health " << health << endl;
+	cout << "Defense : " << defense << "\n" << endl;
 }
 
 Firebat::~Firebat()
 {
+	cout << "Relese FIrebat" << endl;
 }

@@ -1,42 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Marine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|solutionrelative:Marine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Ghost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|solutionrelative:Ghost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Firebat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|solutionrelative:Firebat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Firebat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|solutionrelative:Firebat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Terran.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|solutionrelative:Terran.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Terran.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|solutionrelative:Terran.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Ghost.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|solutionrelative:Ghost.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Marine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|solutionrelative:Marine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6143AAE0-A50C-4849-A051-5BD7184ECC88}|..\\Class5th (Polymorphism)\\Class5th (Polymorphism).vcxproj|C:\\Users\\Main\\Desktop\\gp2025-2\\Class5th (Polymorphism)\\Class5th (Polymorphism).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,124 +17,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class5th (Polymorphism).cpp",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class5th (Polymorphism)\\Class5th (Polymorphism).cpp",
+              "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Class5th (Polymorphism).cpp",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class5th (Polymorphism)\\Class5th (Polymorphism).cpp",
+              "RelativeToolTip": "..\\Class5th (Polymorphism)\\Class5th (Polymorphism).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-20T12:24:22.597Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Program.cpp",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Program.cpp",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAowFsAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-19T23:39:31.509Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Firebat.cpp",
-              "DocumentMoniker": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Firebat.cpp",
-              "RelativeDocumentMoniker": "Firebat.cpp",
-              "ToolTip": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Firebat.cpp",
-              "RelativeToolTip": "Firebat.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-19T23:44:56.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Firebat.h",
-              "DocumentMoniker": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Firebat.h",
-              "RelativeDocumentMoniker": "Firebat.h",
-              "ToolTip": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Firebat.h",
-              "RelativeToolTip": "Firebat.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-19T23:44:56.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Terran.h",
-              "DocumentMoniker": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Terran.h",
-              "RelativeDocumentMoniker": "Terran.h",
-              "ToolTip": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Terran.h",
-              "RelativeToolTip": "Terran.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-19T23:43:42.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Terran.cpp",
-              "DocumentMoniker": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Terran.cpp",
-              "RelativeDocumentMoniker": "Terran.cpp",
-              "ToolTip": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Terran.cpp",
-              "RelativeToolTip": "Terran.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswA4AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-19T23:43:29.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Ghost.h",
-              "DocumentMoniker": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Ghost.h",
-              "RelativeDocumentMoniker": "Ghost.h",
-              "ToolTip": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Ghost.h",
-              "RelativeToolTip": "Ghost.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-19T23:36:58.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Marine.h",
-              "DocumentMoniker": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Marine.h",
-              "RelativeDocumentMoniker": "Marine.h",
-              "ToolTip": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Marine.h",
-              "RelativeToolTip": "Marine.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-19T23:37:00.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ghost.cpp",
-              "DocumentMoniker": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Ghost.cpp",
-              "RelativeDocumentMoniker": "Ghost.cpp",
-              "ToolTip": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Ghost.cpp",
-              "RelativeToolTip": "Ghost.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-19T23:36:52.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Marine.cpp",
-              "DocumentMoniker": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Marine.cpp",
-              "RelativeDocumentMoniker": "Marine.cpp",
-              "ToolTip": "C:\\Users\\\uD5C8\uC9C0\uC11D\\Desktop\\gp2025-2\\Program\\Marine.cpp",
-              "RelativeToolTip": "Marine.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-19T23:36:51.444Z",
+              "WhenOpened": "2025-06-20T11:11:38.206Z",
               "EditorCaption": ""
             }
           ]

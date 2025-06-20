@@ -5,10 +5,8 @@ class Firebat : public Terran
 public:
 	Firebat();
 
-	void Attack();
+	virtual void Stat() override;
 
-	void Stat();
-
-	~Firebat();
+	virtual ~Firebat();
 };
 
