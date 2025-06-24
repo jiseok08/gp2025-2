@@ -1,3 +1,5 @@
 ﻿  Program.cpp
-C:\Users\Main\Desktop\gp2025-2\Program\Program.cpp(28,2): warning C4154: 배열 식을 삭제했습니다. 포인터로 변환이 제공됩니다.
+  Vector2.cpp
+  코드를 생성하고 있습니다...
+C:\Users\Main\Desktop\gp2025-2\Program\Vector2.cpp(34,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
   Program.vcxproj -> C:\Users\Main\Desktop\gp2025-2\Program\x64\Debug\Program.exe

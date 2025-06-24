@@ -129,7 +129,7 @@
   <ItemGroup>
     <ClCompile Include="..\Program\Consumable.cpp" />
     <ClCompile Include="..\Program\Potion.cpp" />
-    <ClCompile Include="Class4th (Inheritance).cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Program\Consumable.h" />

@@ -2,14 +2,14 @@
 
 Necklace::Necklace()
 {
-	immunity = 10;
+	accuracy = 10;
 	name = "Necklace";
 }
 
 void Necklace::Effect()
 {
 	cout << "Name : " << name << endl;
-	cout << "Effect : Immunity increases by " << immunity << endl;
+	cout << "Effect : " << "Accuracy increases by " << accuracy << endl;
 }
 
 Necklace::~Necklace()

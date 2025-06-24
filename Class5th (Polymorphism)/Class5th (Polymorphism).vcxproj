@@ -133,7 +133,7 @@
     <ClCompile Include="..\Program\Marine.cpp" />
     <ClCompile Include="..\Program\Shape.cpp" />
     <ClCompile Include="..\Program\Terran.cpp" />
-    <ClCompile Include="Class5th (Polymorphism).cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Program\circle.h" />

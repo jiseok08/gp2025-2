@@ -3,7 +3,7 @@
 class Necklace : public Accessory
 {
 private:
-	int immunity;
+	int accuracy;
 	const char* name;
 public:
 	Necklace();
