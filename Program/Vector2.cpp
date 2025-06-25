@@ -74,38 +74,42 @@ Vector2& Vector2::operator%(const Vector2& vector2)
 	return clone;
 }
 
-Vector2& Vector2::operator++(int)
+const Vector2& Vector2::operator++(int)
 {
-	Vector2 temp = *this;
+	Vector2 clone = *this;
+
+	clone.Coordinate(x, y);
 
 	x++;
 	y++;
 
-	return temp;
+	return clone;
 }
 
-Vector2& Vector2::operator--(int)
+const Vector2& Vector2::operator--(int)
 {
-	Vector2 temp = *this;
+	Vector2 clone;
+
+	clone.Coordinate(x, y);
 
 	x--;
 	y--;
 
-	return temp;
+	return clone;
 }
 
-Vector2& Vector2::operator++()
+const Vector2& Vector2::operator++()
 {
-	x++;
-	y++;
+	this->x++;
+	this->y++;
 	
 	return *this;
 }
 
-Vector2& Vector2::operator--()
+const Vector2& Vector2::operator--()
 {
-	x--;
-	y--;
+	this->x--;
+	this->y--;
 
 	return *this;
 }
