@@ -1,5 +1,11 @@
 ﻿  Program.cpp
   Vector2.cpp
   코드를 생성하고 있습니다...
-C:\Users\Main\Desktop\gp2025-2\Program\Vector2.cpp(34,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
-  Program.vcxproj -> C:\Users\Main\Desktop\gp2025-2\Program\x64\Debug\Program.exe
+C:\Users\허지석\Desktop\gp2025-2\Program\Vector2.cpp(34,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
+C:\Users\허지석\Desktop\gp2025-2\Program\Vector2.cpp(54,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
+C:\Users\허지석\Desktop\gp2025-2\Program\Vector2.cpp(44,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
+C:\Users\허지석\Desktop\gp2025-2\Program\Vector2.cpp(64,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
+C:\Users\허지석\Desktop\gp2025-2\Program\Vector2.cpp(74,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
+C:\Users\허지석\Desktop\gp2025-2\Program\Vector2.cpp(84,1): warning C4172: 지역 변수 또는 임시 : temp의 주소를 반환하는 중
+C:\Users\허지석\Desktop\gp2025-2\Program\Vector2.cpp(94,1): warning C4172: 지역 변수 또는 임시 : temp의 주소를 반환하는 중
+  Program.vcxproj -> C:\Users\허지석\Desktop\gp2025-2\Program\x64\Debug\Program.exe

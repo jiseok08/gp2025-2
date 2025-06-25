@@ -74,4 +74,42 @@ Vector2& Vector2::operator%(const Vector2& vector2)
 	return clone;
 }
 
+Vector2& Vector2::operator++(int)
+{
+	Vector2 temp = *this;
+
+	x++;
+	y++;
+
+	return temp;
+}
+
+Vector2& Vector2::operator--(int)
+{
+	Vector2 temp = *this;
+
+	x--;
+	y--;
+
+	return temp;
+}
+
+Vector2& Vector2::operator++()
+{
+	x++;
+	y++;
+	
+	return *this;
+}
+
+Vector2& Vector2::operator--()
+{
+	x--;
+	y--;
+
+	return *this;
+}
+
+ 
+
  

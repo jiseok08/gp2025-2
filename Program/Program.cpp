@@ -18,6 +18,11 @@ int main()
 
 	vector2.Coordinate(2,3);
 
+	vector2++;
+	vector2++;
+	vector2++;
+	vector2--;
+
 	Vector2 direction = vector1 + vector2;
 	
 
