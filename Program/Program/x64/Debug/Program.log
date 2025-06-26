@@ -1,19 +1,2 @@
 ﻿  Program.cpp
-C:\Users\Main\Desktop\gp2025-2\Program\Program.cpp(38,12): error C2228: '.data' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
-      C:\Users\Main\Desktop\gp2025-2\Program\Program.cpp(38,12):
-      'Container<int>::index *' 형식입니다.
-      C:\Users\Main\Desktop\gp2025-2\Program\Program.cpp(38,12):
-      대신 '->'을(를) 사용하려고 했습니까?
-      C:\Users\Main\Desktop\gp2025-2\Program\Program.cpp(38,12):
-      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
-          C:\Users\Main\Desktop\gp2025-2\Program\Program.cpp(79,17):
-          컴파일되는 클래스 템플릿 인스턴스화 'Container<int>'에 대한 참조를 확인하세요.
-          C:\Users\Main\Desktop\gp2025-2\Program\Program.cpp(32,7):
-          클래스 템플릿 멤버 함수 'void Container<int>::Push(T)'을(를) 컴파일하는 중입니다.
-          with
-          [
-              T=int
-          ]
-              C:\Users\Main\Desktop\gp2025-2\Program\Program.cpp(81,16):
-              'main'에서 'Container<int>::Push'에 대한 첫 번째 참조를 확인하세요.
-  
+  Program.vcxproj -> C:\Users\Main\Desktop\gp2025-2\Program\x64\Debug\Program.exe

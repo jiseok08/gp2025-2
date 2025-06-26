@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02AA4652-8B17-4C85-91EA-DE2506ABC7C3}|..\\Class8th (Template)\\Class8th (Template).vcxproj|C:\\Users\\Main\\Desktop\\gp2025-2\\Class8th (Template)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +17,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class8th (Template)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class8th (Template)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class8th (Template)\\Source.cpp",
+              "RelativeToolTip": "..\\Class8th (Template)\\Source.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T11:37:20.881Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\Program.cpp*",
-              "RelativeToolTip": "Program.cpp*",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBwAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\Program.cpp",
+              "RelativeToolTip": "Program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-25T00:20:06.113Z",
               "EditorCaption": ""
