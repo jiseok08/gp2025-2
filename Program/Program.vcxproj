@@ -127,7 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Packit.cpp" />
     <ClCompile Include="Program.cpp" />
+    <ClCompile Include="Resource.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Packit.h" />
+    <ClInclude Include="Resource.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
