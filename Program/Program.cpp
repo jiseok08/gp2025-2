@@ -1,53 +1,49 @@
 ﻿#include <iostream>
-#include <vector>
-#include <list>
+#include <stack>
+#include <queue>
 
 using namespace std;
 
 int main()
 {
-#pragma region 선형 컨테이너
-	// 데이터를 선형으로 저장하며, 특별한 제약이나 규칙이 없는 컨테이너입니다.
+#pragma region 컨테이너 어댑터
+	// 기존 컨테이너의 인터페이스를 제한하여 만든 기능이
+	// 제한되거나 변경된 컨테이너입니다.
 
-#pragma region vector container
+#pragma region stack container
 
-	// std::vector<int> vector;
+	// std::stack<int> stack;
 	// 
-	// vector.reserve(8);
+	// stack.push(10);
+	// stack.push(20);
+	// stack.push(30);
+	// stack.push(40);
+	// stack.push(50);
 	// 
-	// vector.push_back(10);
-	// vector.push_back(20);
-	// vector.push_back(30);
-	// vector.push_back(40);
-	// vector.push_back(50);
-	// 
-	// 
-	// for (int i = 0; i < vector.size(); i++)
+	// while (stack.empty() == false)
 	// {
-	// 	cout << vector[i] << endl;
+	// 	cout << stack.top() << endl;
+	// 
+	// 	stack.pop();
 	// }
-	// 
-	// vector.clear();
-	// 
-	// cout << "Vector의 Size의 값 : " << vector.size() << endl;
-	// cout << "Vector의 Capacity의 값 : " << vector.capacity() << endl;
-	// 
-	// cout << vector.capacity() << endl;
 
 #pragma endregion
 
-#pragma region list container
+#pragma region queue container
 
-	std::list<int> list;
-	list.push_back(20);
-	list.push_back(30);
-	list.push_front(10);
+	std::queue<int> queue;
 
-	list.pop_front();
+	queue.push(10);
+	queue.push(20);
+	queue.push(30);
+	queue.push(40);
+	queue.push(50);
 
-	for (int data : list)
+	while (queue.empty() == false)
 	{
-		cout << data << ' ';
+		cout << queue.front() << endl;
+
+		queue.pop();
 	}
 
 #pragma endregion
