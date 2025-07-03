@@ -7,19 +7,7 @@
       "RelativeMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71BDC981-713B-406B-852B-F33D4658E906}|..\\Class11th (Linear Container)\\Class11th (Linear Container).vcxproj|C:\\Users\\Main\\Desktop\\gp2025-2\\Class11th (Linear Container)\\Class11th (Linear Container).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E24A28BE-3911-44F9-B4D2-FDF8BC02508B}|..\\Class9th (Smart Pointer)\\Class9th (Smart Pointer).vcxproj|C:\\Users\\Main\\Desktop\\gp2025-2\\Class9th (Smart Pointer)\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E24A28BE-3911-44F9-B4D2-FDF8BC02508B}|..\\Class9th (Smart Pointer)\\Class9th (Smart Pointer).vcxproj|C:\\Users\\Main\\Desktop\\gp2025-2\\Class9th (Smart Pointer)\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Main\\Desktop\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E24A28BE-3911-44F9-B4D2-FDF8BC02508B}|..\\Class9th (Smart Pointer)\\Class9th (Smart Pointer).vcxproj|C:\\Users\\Main\\Desktop\\gp2025-2\\Class9th (Smart Pointer)\\Class9th (Smart Pointer).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F52392F3-CBE7-4E27-9257-27D44ADC9304}|..\\Class12th (Container Adapter)\\Class12th (Container Adapter).vcxproj|C:\\Users\\Main\\Desktop\\gp2025-2\\Class12th (Container Adapter)\\Class12th (Container Adapter).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,7 +27,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-25T00:20:06.113Z",
               "IsPinned": true,
@@ -48,64 +36,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class11th (Linear Container).cpp",
-              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class11th (Linear Container)\\Class11th (Linear Container).cpp",
-              "RelativeDocumentMoniker": "..\\Class11th (Linear Container)\\Class11th (Linear Container).cpp",
-              "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class11th (Linear Container)\\Class11th (Linear Container).cpp",
-              "RelativeToolTip": "..\\Class11th (Linear Container)\\Class11th (Linear Container).cpp",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswAkAAAAAAAAAAAAAAA==",
+              "Title": "Class12th (Container Adapter).cpp",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class12th (Container Adapter)\\Class12th (Container Adapter).cpp",
+              "RelativeDocumentMoniker": "..\\Class12th (Container Adapter)\\Class12th (Container Adapter).cpp",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class12th (Container Adapter)\\Class12th (Container Adapter).cpp",
+              "RelativeToolTip": "..\\Class12th (Container Adapter)\\Class12th (Container Adapter).cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwEkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-02T12:02:22.635Z",
+              "WhenOpened": "2025-07-03T11:41:43.695Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Character.cpp",
-              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class9th (Smart Pointer)\\Character.cpp",
-              "RelativeDocumentMoniker": "..\\Class9th (Smart Pointer)\\Character.cpp",
-              "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class9th (Smart Pointer)\\Character.cpp",
-              "RelativeToolTip": "..\\Class9th (Smart Pointer)\\Character.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-02T08:34:13.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Character.h",
-              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class9th (Smart Pointer)\\Character.h",
-              "RelativeDocumentMoniker": "..\\Class9th (Smart Pointer)\\Character.h",
-              "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class9th (Smart Pointer)\\Character.h",
-              "RelativeToolTip": "..\\Class9th (Smart Pointer)\\Character.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-02T08:34:09.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Character.cpp",
-              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\Character.cpp",
-              "RelativeDocumentMoniker": "..\\..\\Character.cpp",
-              "ToolTip": "C:\\Users\\Main\\Desktop\\Character.cpp",
-              "RelativeToolTip": "..\\..\\Character.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-02T08:33:15.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Class9th (Smart Pointer).cpp",
-              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class9th (Smart Pointer)\\Class9th (Smart Pointer).cpp",
-              "RelativeDocumentMoniker": "..\\Class9th (Smart Pointer)\\Class9th (Smart Pointer).cpp",
-              "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class9th (Smart Pointer)\\Class9th (Smart Pointer).cpp",
-              "RelativeToolTip": "..\\Class9th (Smart Pointer)\\Class9th (Smart Pointer).cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-01T11:02:34.492Z"
             }
           ]
         }
