@@ -130,7 +130,7 @@
     <ClCompile Include="..\Program\Packit.cpp" />
     <ClCompile Include="..\Program\Resource.cpp" />
     <ClCompile Include="Character.cpp" />
-    <ClCompile Include="Class9th (Smart Pointer).cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Program\Packit.h" />

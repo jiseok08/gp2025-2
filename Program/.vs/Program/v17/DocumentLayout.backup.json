@@ -5,9 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CD37DCF8-AF03-4FE5-B205-2E7F0115FA20}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F52392F3-CBE7-4E27-9257-27D44ADC9304}|..\\Class12th (Container Adapter)\\Class12th (Container Adapter).vcxproj|C:\\Users\\Main\\Desktop\\gp2025-2\\Class12th (Container Adapter)\\Class12th (Container Adapter).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,25 +22,12 @@
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\Program.cpp*",
-              "RelativeToolTip": "Program.cpp*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Program\\Program.cpp",
+              "RelativeToolTip": "Program.cpp",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwEUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-25T00:20:06.113Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class12th (Container Adapter).cpp",
-              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class12th (Container Adapter)\\Class12th (Container Adapter).cpp",
-              "RelativeDocumentMoniker": "..\\Class12th (Container Adapter)\\Class12th (Container Adapter).cpp",
-              "ToolTip": "C:\\Users\\Main\\Desktop\\gp2025-2\\Class12th (Container Adapter)\\Class12th (Container Adapter).cpp",
-              "RelativeToolTip": "..\\Class12th (Container Adapter)\\Class12th (Container Adapter).cpp",
-              "ViewState": "AgIAADIAAAAAAAAAAAAqwEkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-03T11:41:43.695Z",
               "EditorCaption": ""
             }
           ]
